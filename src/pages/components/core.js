@@ -14,7 +14,8 @@ function Core() {
 					<div class="col ">
 						<div class=" h-300 ">
 						<div class="card-body coreB">
-							<h5 class="card-title">We can service all of your<br/> construction needs</h5><br/>
+							<h5 class="card-title">We can service all of your<br/> construction needs<hr/></h5><br/>
+
 								<p>
 										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget leo gravida senectus at. Habitasse elementum congue sed proin ut. At eu tempus, mi nibh nibh. Mauris tristique eget a eget in. Lectus malesuada in sed tellus volutpat viverra sagittis sit. Tortor non morbi ultricies vel etiam sit risus. Lacus, nisl urna quam sem diam bibendum posuere cursus tincidunt. In commodo aliquam, felis viverra accumsan diam maecenas egestas nunc. Sagittis mi aenean habitant a velit odio at suspendisse ut.<br/><br/>
 
